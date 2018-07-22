@@ -1,0 +1,17 @@
+# of instances: 100,000
+# of attributes: 3
+# of classes: 2 (+1 noise class NA)
+attribute types:
+	- X1: numerical
+	- X2: numerical
+	- class: nominal
+missing values? No
+noise? Yes
+
+Description:
+
+	Instances divided in two classes, that move diagonaly in the 2-dimensional space, overlapping in the center.
+
+	Generated with package stream in R, by calling function DSD_Benchmark with parameter i = 1.
+
+
