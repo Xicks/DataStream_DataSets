@@ -12,4 +12,6 @@ All datasets are in csv and follow the format ```X1,X2,...,Xn,class```. They do 
 * SynEDC
 * KDD99Cup
 
-More information about the data sets can be found on their respective folders. Feel free to use any of the data sets.
+More information about the data sets can be found on their respective folders. The files exceed GitHub's file size limit capacit. To download them use Git Large File Storage (https://git-lfs.github.com/).
+
+Feel free to use any of the data sets.
