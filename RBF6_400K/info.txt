@@ -12,5 +12,5 @@ Description:
 
 	Instances divided in classes, represented as gaussians, that move within the 2-dimensional space, overlapping in some places.
 
-	Generated with package streamMOA in R, by calling function DSD_RandomRBFGeneratorEvents with parameters d = 2, eventMergeSplitOption = TRUE, eventDeleteCreate = FALSE, numClusterRange = 7, eventFrequency = 50000, modelSeed = 1000, instanceSeed = 1000)
+	Generated with package streamMOA in R, by calling function DSD_RandomRBFGeneratorEvents with parameters k = 5, d = 2, eventMergeSplitOption = TRUE, eventDeleteCreate = FALSE, numClusterRange = 7, eventFrequency = 50000, modelSeed = 1000, instanceSeed = 1000)
 
