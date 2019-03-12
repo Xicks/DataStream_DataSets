@@ -1,1 +1,15 @@
- 
+# of instances: 400,000
+# of attributes: 41
+# of classes: 20
+attribute types:
+	- X1~40: numerical [0~1]
+	- class: nominal
+missing values? No
+noise? Yes
+
+Description:
+
+	Synthetic data with concept-drift and novel-class. Gaussian distribution with different means (-5.0 to +5.0) and class variances (0.5 to 6). Distribution changes over time making classes appear and disappear.
+
+Masud et al. (2011a), Al-Khateeb et al. (2012a) e Al-Khateeb et al. (2012b)
+
